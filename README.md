@@ -75,7 +75,7 @@ I'm particularly interested in understanding **why** something works instead of 
 
 ---
 
-## 🎮 Outside of coding
+## Outside of coding
 
 When I'm not coding, you'll probably find me gaming.
 
