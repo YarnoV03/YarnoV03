@@ -128,12 +128,3 @@ I'm most comfortable working and experimenting in CSS.
 - Learning by doing
 
 ---
-
-
-Whether you're here because of a project, gaming, design, development, or you just want to say hi:
-
-**Feel free to reach out. 👋**
-
----
-
-<sub>Built with ☕, curiosity, and probably more tabs open than necessary.</sub>
